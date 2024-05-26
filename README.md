@@ -1,7 +1,7 @@
 # 回収溶媒計算ソフト
 
 
-詳細は[こちら](https://github.com/ItokenProgramming/Solvent-Collection-Calculator/raw/main/About-Solvent-Collection-Calculator.pdf)を参照されたい。ソースコードを以下に示す。
+ソースコードを以下に示す。詳細は[こちら](https://github.com/ItokenProgramming/Solvent-Collection-Calculator/raw/main/About-Solvent-Collection-Calculator.pdf)を参照されたい。
 
 ```
 "VOLUM SUM="?→V
